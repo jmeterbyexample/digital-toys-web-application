@@ -19,7 +19,7 @@
 /logs
 
 # project release file
-/*.war
+#/*.war
 
 # plugin release files
 /*.zip
@@ -31,3 +31,4 @@
 
 # "temporary" build files
 /target
+
